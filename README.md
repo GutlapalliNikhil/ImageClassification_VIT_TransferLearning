@@ -1,3 +1,5 @@
+It is remarkable that it required a week to gain a comprehensive understanding of Transformer models and their intricate workings. However, once familiarized, employing the model itself can be accomplished within a day or even less.
+
 # Project Demo: Pretrained ViT Model on Custom Dataset
 
 This repository contains a demonstration of using a pretrained Vision Transformer (ViT) model, trained on the ImageNet dataset, on a custom dataset. The code is implemented in PyTorch and includes training and evaluation of the model.
